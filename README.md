@@ -46,4 +46,4 @@ Navegación centralizada para acceder rápidamente a todas las historias de usua
 - [HU-5001 Cifrado de Contraseñas](1738357175-hu-banco5001.md)  
 - [HU-5002 Prevención de Inyecciones SQL](1738357201-hu-banco5002.md)  
 - [HU-5003 Autenticación de Doble Factor](1738357224-hu-banco5003.md)
-- [HU-5004 Registro_de_Actividades](1738362020-hu-banco5004)
+- [HU-5004 Registro_de_Actividades](1738362020-hu-banco5004.md)
